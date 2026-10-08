@@ -1,0 +1,5 @@
+[
+ {"name":"Amit","skills":["Java","Python"],"workload":80},
+ {"name":"Priya","skills":["Python","FastAPI","SQL"],"workload":30},
+ {"name":"Rahul","skills":["Java","Spring"],"workload":20}
+]

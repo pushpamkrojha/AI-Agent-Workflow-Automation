@@ -1,0 +1,4 @@
+[
+  {"order_id":"ORD-1001","email":"customer@example.com","items":["Wireless Keyboard"],"status":"Shipped","shipment_status":"In transit","tracking":"TRK123456","estimated_delivery":"2026-10-10"},
+  {"order_id":"ORD-1002","email":"buyer@example.com","items":["USB-C Hub"],"status":"Processing","shipment_status":"Not shipped","tracking":null,"estimated_delivery":null}
+]
